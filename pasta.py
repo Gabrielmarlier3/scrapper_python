@@ -1,1 +1,1 @@
-print("Olá mundo")
+print('Não quero o bem do mundo aqui')
